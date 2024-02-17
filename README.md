@@ -1,11 +1,15 @@
 # Technical Test Frontend Hara Anargya
 
+## Identitas
+* Full name: Irsyad Nurwidianto Basuki
+* Email: irsyadnb03s@gmail.com
+
 ## Installation
 * Fork Repo ini
 * Clone Repo ini
 * `npm i`
   
-## Tugas 1
+## Tugas 1 ✅	
 Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0) (Gunakan Composistion API!)
 
 1. Gunakan Tailwind CSS untuk styling
@@ -20,7 +24,7 @@ Buatlah Website seperti di [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSa
 * baca komentar pada [Mockup](https://www.figma.com/file/YPQ5iCEvLc2CTGVSaTKD8M/Untitled?type=design&mode=design&t=VpTQHHG6PqegCa7B-0) untuk informasi detail lainya
 
   
- ## Tugas 2
+ ## Tugas 2 ✅
  diberikan 2 file js yaitu province.js dan city.js (didalam project)
 1. Buatlah fungsi yang menerima id provinsi dan mengembalikan daftar kota berdasarkan id provinsi tersebut
 2. Buatlah fungsi untuk mengembalikan `nama` provinsi berdasakrkan id kota
